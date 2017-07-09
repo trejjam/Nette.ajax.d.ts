@@ -35,7 +35,6 @@ interface INetteAjaxSettingsObject {
 	e: Event;
 	el: HTMLElement;
 	form: HTMLFormElement | null;
-	form: any;
 	isForm: boolean;
 	isImage: boolean;
 	isSubmit: boolean;
